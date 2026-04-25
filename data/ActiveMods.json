@@ -1,17 +1,35 @@
 {
-  "exportedAt": "2026-04-14T19:33:36.9341276Z",
-  "totalActiveMods": 11,
+  "exportedAt": "2026-04-18T15:34:24.7962874Z",
+  "totalActiveMods": 32,
   "mods": [
     {
       "author": "Captolamia",
-      "name": "[CAP] Rimworld Interactive Chat Service DEV VERSION",
-      "steamId": null,
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
       "version": null
     },
     {
-      "author": "Captolamia",
-      "name": "[CAP] Thunder Snow",
-      "steamId": null,
+      "author": "Programmer-Lily",
+      "name": "[PL] Trading Spot",
+      "steamId": "3507108484",
+      "version": "1.2.0"
+    },
+    {
+      "author": "llunak, Shadowrabbit",
+      "name": "[SR]Factional War (fork)",
+      "steamId": "3423264477",
+      "version": null
+    },
+    {
+      "author": "HarryRobinson",
+      "name": "[WD] Materials For Vents 1.6",
+      "steamId": "3542275011",
+      "version": null
+    },
+    {
+      "author": "UnlimitedHugs",
+      "name": "Allow Tool",
+      "steamId": "761421485",
       "version": null
     },
     {
@@ -21,21 +39,51 @@
       "version": null
     },
     {
-      "author": "Aleksey",
-      "name": "Better Stacktraces",
-      "steamId": "3541579129",
-      "version": null
-    },
-    {
       "author": "Ludeon Studios",
       "name": "Biotech",
       "steamId": null,
       "version": null
     },
     {
+      "author": "Andreas Pardeike",
+      "name": "Camera+",
+      "steamId": "867467808",
+      "version": "3.3.2.0"
+    },
+    {
+      "author": "CE Team",
+      "name": "Combat Extended",
+      "steamId": "3495749827",
+      "version": "16.7.2.0"
+    },
+    {
+      "author": "CE Team",
+      "name": "Combat Extended Armors",
+      "steamId": "3565026039",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Core",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "EdB",
+      "name": "EdB Prepare Carefully",
+      "steamId": "735106432",
+      "version": null
+    },
+    {
+      "author": "Harry_Robinson1",
+      "name": "Extra Vanilla-Friendly Body Parts",
+      "steamId": "3568444728",
+      "version": null
+    },
+    {
+      "author": "WalterHawkwood",
+      "name": "Floors Are (Absolutely) Worthless",
+      "steamId": "2960126462",
       "version": null
     },
     {
@@ -47,7 +95,7 @@
     {
       "author": "UnlimitedHugs",
       "name": "HugsLib",
-      "steamId": "818773962",
+      "steamId": "3513789221",
       "version": null
     },
     {
@@ -57,15 +105,93 @@
       "version": null
     },
     {
+      "author": "AlenDio",
+      "name": "Make Your Bulk",
+      "steamId": "3386316410",
+      "version": "5.0"
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
       "version": null
     },
     {
+      "author": "SeoHyeon",
+      "name": "Optimization: Meats - C# Edition",
+      "steamId": "2542931556",
+      "version": null
+    },
+    {
+      "author": "Mehni",
+      "name": "Pick Up And Haul",
+      "steamId": "1279012058",
+      "version": null
+    },
+    {
+      "author": "The White Crayon",
+      "name": "Quarry (1.6 Temp)",
+      "steamId": "3513840161",
+      "version": null
+    },
+    {
+      "author": "Jaxe",
+      "name": "RimHUD",
+      "steamId": "1508850027",
+      "version": null
+    },
+    {
+      "author": "rooki1",
+      "name": "Rimsenal - Augmented Vanilla Pack",
+      "steamId": "849231601",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Royalty",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Gideon",
+      "name": "Simple Storage Reborn",
+      "steamId": "3236289318",
+      "version": "1.64523.9333.224011"
+    },
+    {
+      "author": "Sam",
+      "name": "Tilled Soil",
+      "steamId": "725747149",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson,  Erdelf",
+      "name": "Vanilla Expanded Framework",
+      "steamId": "2023507013",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha",
+      "name": "Vanilla Ideology Expanded - Hats and Rags",
+      "steamId": "2567387768",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Ideology Expanded - Icons and Symbols",
+      "steamId": "2552609458",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Ideology Expanded - Memes and Structures",
+      "steamId": "2636329500",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX,  erdelf,  Sarg",
+      "name": "Vanilla Textures Expanded",
+      "steamId": "2016436324",
       "version": null
     }
   ]
